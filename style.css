@@ -1,0 +1,24 @@
+*{
+    margin: 10px auto;
+    text-align: center;
+}
+
+body{
+    width: 80%;
+    background-color: antiquewhite;
+}
+input, button{
+    border: 2px solid rgba(37, 54, 37, 0.486);
+    border-radius: 3px;
+}
+
+button{
+    background-color: rgb(241, 223, 172);
+    color: rgb(8, 8, 8);
+}
+
+button:hover{
+    background-color:orange ;
+    color: red;
+}
+
